@@ -89,7 +89,7 @@
         phone
     from
         employee
-    where phone not like '010%'
+    where phone not like '010%';
 
 -- EMPLOYEE 테이블에서 DEPT_CODE가 'D1', 'D2', 'D3'인 데이터를 조회하시오.
 
